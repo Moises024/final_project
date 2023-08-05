@@ -40,6 +40,7 @@ Nivel 2
 
 En este nivel se utiliza "justify-content: center" de la documentación para alinear las ranas al centro del eje principal del contenedor.
 
+#
 
 Nivel 3
 
@@ -47,11 +48,15 @@ Nivel 3
 
 En este nivel se utiliza "justify-content: space-around" de la documentación para separar uniformemente las ranas a lo largo del eje principal del contenedor y así distribuir el espacio restante alrededor de las ranas.
 
+#
+
 Nivel 4
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/1a9cafd1-4eac-4873-bc85-f5e849f52058)
 
 En este nivel se utiliza "justify-content: space-between" de la documentación para distribuir uniformemente a las ranas dentro del contenedor de alineación a lo largo del eje principal.
+
+#
 
 Nivel 5
 
@@ -59,12 +64,15 @@ Nivel 5
 
 En este nivel se utiliza "align-items: flex-end" de la documentación para alinear las ranas al final del eje transversal del contenedor.
 
+#
+
 Nivel 6
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/b431aa0e-8c58-417a-b2bc-0dc67ea8b085)
 
 En este nivel se utiliza "justify-content: center" de la documentación para para alinear la rana al centro del eje principal del contenedor. También se utiliza "align-items: center" para alinear la rana al centro del eje transversal del contenedor.
 
+#
 
 Nivel 7
 
@@ -72,11 +80,15 @@ Nivel 7
 
 En este nivel se utiliza "justify-content: space-around" de la documentación para separar uniformemente las ranas a lo largo del eje principal del contenedor y así distribuir el espacio restante alrededor de las ranas. También se utiliza "align-items: flex-end" para alinear las ranas al final del eje transversal del contenedor.
 
+#
+
 Nivel 8
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/34c7e7d1-c9a2-4398-a6da-48581d7399fa)
 
 En este nivel se utiliza "flex-direction: row-reverse" de la documentación para alinear las ranas de derecha a izquierda.
+
+#
 
 Nivel 9
 
@@ -84,12 +96,15 @@ Nivel 9
 
 En este nivel se utiliza "flex-direction: column" de la documentación para alinear las ranas de arriba a abajo.
 
+#
+
 Nivel 10
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/39e87cc3-98cb-4df1-b960-597e0cba4144)
 
 En este nivel se utiliza "flex-direction: row-reverse" de la documentación para alinear las ranas de derecha a izquierda. También se utiliza "justify-content: flex-end" para alinear las ranas al final del eje principal del contenedor. Aparece en el principio por el reverse.
 
+#
 
 Nivel 11
 
@@ -97,6 +112,7 @@ Nivel 11
 
 En este nivel se utiliza "flex-direction: column" de la documentación para alinear las ranas de arriba a abajo. También se utiliza "justify-content: flex-end" para alinear las ranas al final del eje principal del contenedor.
 
+#
 
 Nivel 12
 
@@ -104,11 +120,15 @@ Nivel 12
 
 En este nivel se utiliza "flex-direction: column-reverse" de la documentación para alinear las ranas de abajo hacia arriba. También se utiliza "justify-content: space-between" para distribuir uniformemente a las ranas dentro del contenedor de alineación a lo largo del eje principal.
 
+#
+
 Nivel 13
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/ecbb3cda-0a4a-454d-a4a2-068866e244d9)
 
 En este nivel se utiliza "flex-direction: row-reverse" de la documentación para alinear las ranas de derecha a izquierda. También se utiliza "justify-content: center" para alinear las ranas al centro del eje principal del contenedor. Por último, se utiliza "align-items: flex-end" para alinear las ranas al final del eje transversal del contenedor.
+
+#
 
 Nivel 14
 
@@ -116,11 +136,15 @@ Nivel 14
 
 En este nivel se utiliza "order: 3" para mover la rana amarilla de posición.
 
+#
+
 Nivel 15
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/871ef2df-23e9-4b51-9a95-26c96530c4e8)
 
 En este nivel se utiliza "order: -1" para mover la rana roja a la posición -1.
+
+#
 
 Nivel 16
 
@@ -128,6 +152,7 @@ Nivel 16
 
 En este nivel se utiliza "align-self: flex-end" de la documentación para alinear solo la rana amarilla al final del eje transversal del contenedor.
 
+#
 
 Nivel 17
 
@@ -135,11 +160,15 @@ Nivel 17
 
 En este nivel se utiliza "order: 1" para mover law ranas amarillas a la posición 1. También se utiliza "align-self: flex-end" para alinear solo las ranas amarillas al final del eje transversal del contenedor.
 
+#
+
 Nivel 18
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/549816de-33f4-423f-a9d5-28dc991a2c50)
 
 En este nivel se utiliza "flex-wrap: wrap" de la documentación para poner las ranas más grandes y así poner la rana verde y la roja en la siguiente línea.
+
+#
 
 Nivel 19
 
@@ -147,12 +176,15 @@ Nivel 19
 
 En este nivel se utiliza "flex-direction: column" de la documentación para alinear las ranas de arriba a abajo. También se utiliza "flex-wrap: wrap" para que las ranas sean más grandes y así ponerlas en la siguiente línea.
 
+#
+
 Nivel 20
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/931be8aa-29dd-4927-955e-8e6e1d504bf9)
 
 En este nivel se utiliza "flex-flow: column wrap" para alinear las ranas de arriba a abajo y para que las ranas sean más grandes y así ponerlas en la siguiente línea.
 
+#
 
 Nivel 21
 
@@ -161,17 +193,23 @@ Nivel 21
 
 En este nivel se utiliza "align-content: flex-start" de la documentación para  alinear las ranas al inicio del eje transversal del contenedor.
 
+#
+
 Nivel 22
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/123e88be-5522-4f55-a8dc-7e9092b7b3ff)
 
 En este nivel se utiliza "align-content: flex-end" de la documentación para  alinear las ranas al final del eje transversal del contenedor.
 
+#
+
 Nivel 23
 
 ![image](https://github.com/Moises024/examen_final/assets/126703271/068f4558-7b1e-486d-9f4d-653bd6219ffc)
 
 En este nivel se utiliza "flex-direction: column-reverse" de la documentación para alinear las ranas de abajo hacia arriba. También se utiliza "align-content: center" para  alinear las ranas al centro del eje transversal del contenedor.
+
+#
 
 Nivel 24
 
