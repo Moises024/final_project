@@ -22,5 +22,134 @@ También la documentación abarca estos conceptos:
 
 **Flex Wrap:** Esta propiedad controla si los elementos se ajustan dentro de una sola línea o se envuelven a múltiples líneas cuando el espacio disponible es insuficiente. Si se permite el ajuste de línea, se puede utilizar la propiedad alignContent para especificar cómo se colocan las líneas dentro del contenedor.
 
+#
 
 ## Comparación
+
+Nivel 1
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/2ae01a77-163f-4dea-99a5-f97bf28e9ebb)
+
+Nivel 2
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/688b7608-3c22-4f5c-acad-5b539d3b868d)
+
+
+Nivel 3
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/deb95e7b-e83e-4dcd-ac25-cbf9cd393cf8)
+
+
+Nivel 4
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/1a9cafd1-4eac-4873-bc85-f5e849f52058)
+
+
+Nivel 5
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/205f9e29-4a4d-45d1-b145-145c4bd1e4c4)
+
+
+Nivel 6
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/b431aa0e-8c58-417a-b2bc-0dc67ea8b085)
+
+
+Nivel 7
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/bc407f49-0d92-4b32-9281-3792384bba8a)
+
+
+Nivel 8
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/34c7e7d1-c9a2-4398-a6da-48581d7399fa)
+
+
+Nivel 9
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/b1825a0b-e57a-4e2d-a45a-0dc5b0e0ab60)
+
+
+Nivel 10
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/39e87cc3-98cb-4df1-b960-597e0cba4144)
+
+
+Nivel 11
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/eb41a3c6-875e-40b1-98f4-4b2e47382cf2)
+
+
+Nivel 12
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/dffd5bed-9622-476f-a971-d9abe39ffb56)
+
+
+Nivel 13
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/ecbb3cda-0a4a-454d-a4a2-068866e244d9)
+
+
+Nivel 14
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/fb27dad2-b8a5-457c-9a05-c41b19e5feb1)
+
+
+Nivel 15
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/871ef2df-23e9-4b51-9a95-26c96530c4e8)
+
+
+Nivel 16
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/daed1717-2b63-42a0-aaa2-e94b52271070)
+
+
+Nivel 17
+
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/619d8d94-b1c3-43db-b936-9175144049cf)
+
+
+Nivel 18
+
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/549816de-33f4-423f-a9d5-28dc991a2c50)
+
+
+Nivel 19
+
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/4cdf701b-0aaa-4507-9849-abfe4de3c5eb)
+
+
+Nivel 20
+
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/931be8aa-29dd-4927-955e-8e6e1d504bf9)
+
+
+Nivel 21
+
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/7518fef4-051d-4446-8d42-5f6db5348488)
+
+
+Nivel 22
+
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/123e88be-5522-4f55-a8dc-7e9092b7b3ff)
+
+
+Nivel 23
+
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/068f4558-7b1e-486d-9f4d-653bd6219ffc)
+
+
+Nivel 24
+
+
+![image](https://github.com/Moises024/examen_final/assets/126703271/6e7ebb68-03d1-4423-8217-3707bd34efd2)
+
+
