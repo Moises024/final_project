@@ -22,6 +22,5 @@ También la documentación abarca estos conceptos:
 
 **Flex Wrap:** Esta propiedad controla si los elementos se ajustan dentro de una sola línea o se envuelven a múltiples líneas cuando el espacio disponible es insuficiente. Si se permite el ajuste de línea, se puede utilizar la propiedad alignContent para especificar cómo se colocan las líneas dentro del contenedor.
 
-#
 
 ## Comparación
