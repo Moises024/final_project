@@ -1,7 +1,5 @@
 # Resumen de la doc de Flexbox y la comparación con cada uno de los niveles del juego Froggy
 
-#
-
 ## Resumen
 
 
