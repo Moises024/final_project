@@ -213,6 +213,6 @@ En este nivel se utiliza "flex-direction: column-reverse" de la documentación p
 
 Nivel 24
 
-![image](https://github.com/Moises024/examen_final/assets/126703271/6e7ebb68-03d1-4423-8217-3707bd34efd2)
+![image](https://github.com/Moises024/final_project/assets/126703271/79bc5439-a07f-4fa0-9e5e-d5b53459975c)
 
 En este nivel se utiliza "flex-flow: column-reverse wrap-reverse" para alinear las ranas de abajo hacia arriba. También se utiliza "justify-content: center" de la documentación para alinear las ranas amarillas al centro del eje principal del contenedor. Por último, se utiliza "align-content: space-between" para espaciar uniformemente las ranas a lo largo del eje transversal del contenedor.
