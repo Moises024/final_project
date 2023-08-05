@@ -1,4 +1,9 @@
-# examen_final
+# Resumen de la doc de Flexbox y la comparación con cada uno de los niveles del juego Froggy
+
+#
+
+## Resumen
+
 
 En React Native, Flexbox funciona de manera similar a como lo hace en CSS en la web, pero con algunas diferencias en los valores predeterminados de las propiedades. Por ejemplo, flexDirection tiene un valor predeterminado de column en lugar de row, alignContent tiene un valor predeterminado de flex-start en lugar de stretch, y flexShrink tiene un valor predeterminado de 0 en lugar de 1.
 La propiedad flex determina cómo los elementos se distribuyen en el espacio disponible a lo largo del eje principal. Se divide el espacio según la propiedad flex de cada elemento. Por ejemplo, si hay tres elementos con flex: 1, flex: 2 y flex: 3, respectivamente, se distribuirá el espacio en proporción a estos valores.
@@ -18,3 +23,7 @@ También la documentación abarca estos conceptos:
 **Align Content:** Se utiliza para alinear las líneas de elementos a lo largo del eje cruzado cuando se produce el ajuste de línea (wrapping). Puede tener valores como flex-start, flex-end, stretch, center, space-between y space-around. Estos valores determinan cómo se distribuyen las líneas de elementos a lo largo del eje cruzado del contenedor.
 
 **Flex Wrap:** Esta propiedad controla si los elementos se ajustan dentro de una sola línea o se envuelven a múltiples líneas cuando el espacio disponible es insuficiente. Si se permite el ajuste de línea, se puede utilizar la propiedad alignContent para especificar cómo se colocan las líneas dentro del contenedor.
+
+#
+
+## Comparación
